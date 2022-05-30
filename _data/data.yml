@@ -26,27 +26,35 @@ contact:
 
 profile:
   display: true
-  title: Profile
+  title: Summary
   details: |
     It's your career profile, you can wirte markdown format text.
-    + First Test
-    + Second Test
-
+    + Automation tests development.Experience in automation tests development.
+    + Close collaboration with DEV team.
+    + Creation and support of test environments .
+    + Strong practical knowledge of software development.
+    + Mentoring of the newest in automation.
+    + Experience in Web-services testing, e-commerce testing, Mobile testing (Android)
+    + Programming languages: NodeJS/Typescript
+    + Tools - WebdriverIO, ProtractorJS, Jmeter, JasmineJS, Reportportal, AllureJS, SonarQube, Postman, Jenkins, Appium, Docker, Selenoid, GGR, ELK, Sitespeed.io, TestRail, Jira, Confluence, Grafana, AWS, SOAPUI , Type ORM, Postgresql, MongoDB, MySQL, Git, Webstorm, VS Code, Slack, Telegram and many others
+    
+    
     ...
 
 experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
-      tag:
-      location: Beijing
+    - role: Senior Quality Assurance Automation Engineer
+      time: 2019.09 - till now
+      company: Ciklum
+      tag: full-time, remote
+      location: Kyiv, Ukraine
       details: |
         Experience in this company:
-        + First
-        + Second
+        + Writing and maintaining autotests (WDIO, Sitespeed. io, Applitools, API tests)
+        + Maintaining AQA infrastrucrure (AWS, Docker, Jenkins, Selenoid, GGR, Prometheus, Grafana, Reportportal)
+
 
         ...
 
