@@ -2,7 +2,7 @@ basic:
   name: Sergey Golovin
   title: Senior Automation QA Engineer
   avatar:
-    display: true
+    display: false
     path: ../assets/images/avatar.jpeg
 
 contact:
