@@ -55,6 +55,8 @@ experiences:
 
 
 
+
+
     - role: Lead QA Engineer
       time: 2018.02 - 2019.09
       company: Wenor Holdings LTD
@@ -76,6 +78,8 @@ experiences:
 
 
 
+
+
     - role:  Quality Assurance Engineer
       time: 2015.04 - 2018.02
       company: Triptop Technologies LTD
@@ -89,6 +93,9 @@ experiences:
         + UI autotests development (ProtractorJS)
         + Autotest management and analysis (Jenkins + Allure)
         + Executing test runs and analyzing results
+        
+        
+        
 
 projects:
   display: false
