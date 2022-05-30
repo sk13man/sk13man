@@ -1,69 +1,104 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Sergey Golovin
+  title: Senior Automation QA Engineer
   avatar:
-    display: true
-    path: profile.png
+    display: false
+    path: ../assets/images/avatar.jpeg
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: sk13man@gmail.com
+  phone: +380639508000
   wechat:
   whatsapp:
-  telegram:
-  website: example.com
+  telegram: sk13man
+  website: 
   medium:
   linkedin:
   googlescholar:
   researchgate:
-  github: github
+  github:
   gitlab:
   bitbucket:
-  twitter: twitter
+  twitter: 
   stackoverflow:
   quora:
   goodreads:
 
 profile:
   display: true
-  title: Profile
+  title: Summary
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
-
-    ...
+    + Experience in automation tests development.
+    + Close collaboration with DEV team.
+    + Creation and support of test environments .
+    + Strong practical knowledge of software development.
+    + Mentoring of the newest in automation.
+    + Experience in Web-services testing, e-commerce testing, Mobile testing (Android)
+    + Programming languages: NodeJS/Typescript
+    + Tools - WebdriverIO, ProtractorJS, Jmeter, JasmineJS, Reportportal, AllureJS, SonarQube, Postman, Jenkins, Appium, Docker, Selenoid, GGR, ELK, Sitespeed.io, TestRail, Jira, Confluence, Grafana, AWS, SOAPUI , Type ORM, Postgresql, MongoDB, MySQL, Git, Webstorm, VS Code, Slack, Telegram and many others
+    
+    
 
 experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
-      tag:
-      location: Beijing
+    - role: Senior Quality Assurance Automation Engineer
+      time: 2019.09 - till now
+      company: Ciklum
+      tag: full-time, remote
+      location: Kyiv, Ukraine
       details: |
-        Experience in this company:
-        + First
-        + Second
+        Responsibilities:
+        + Writing and maintaining autotests (WDIO, Sitespeed. io, Applitools, API tests)
+        + Maintaining AQA infrastrucrure (AWS, Docker, Jenkins, Selenoid, GGR, Prometheus, Grafana, Reportportal)
 
-        ...
 
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+
+
+
+    - role: Lead QA Engineer
+      time: 2018.02 - 2019.09
+      company: Wenor Holdings LTD
+      tag: full-time
+      location: Kyiv, Ukraine
       details: |
-        Experience in this company:
-        + First
-        + Second
+        Responsibilities:
+        + Test Strategy and Unit test Policy Creation
+        + Developing test strategies for continuous delivery, partnering cross-functionally to help build a stable and reliable integration environment
+        + Working with product managers to identify risks and collaborate on building automated tests for new features E2E tests development(ProtractorJS) API/performance tests development (Jmeter +postman)
+        + Mobile web tests development (Appium + Android)
+        + Mentoring and knowledge sharing with newcomers
+        + Time planning and estimating
+        + Management of test environments
+        + Close collaborating and debugging with DEV team
+        + Creating and maintaining the test farm server (multi-browser and multi-platform) as a part of CI/CD process Log analysis (ELK)
+        + Regression, user acceptance and smoke testing
+        + Reporting (TestRail + Allure)
 
-        ...
+
+
+
+
+    - role:  Quality Assurance Engineer
+      time: 2015.04 - 2018.02
+      company: Triptop Technologies LTD
+      tag: full-time
+      location: Kyiv, Ukraine
+      details: |
+        Responsibilities:
+        + Creating checklists and test cases.
+        + Bug reporting and verification
+        + Functional, regression, smoke, GUI testing
+        + UI autotests development (ProtractorJS)
+        + Autotest management and analysis (Jenkins + Allure)
+        + Executing test runs and analyzing results
+        
+        
+        
 
 projects:
-  display: true
+  display: false
   title: Projects
   intro: |
     This is all the projects I'm involved in.
@@ -80,7 +115,7 @@ projects:
         Project Bar's detail, you can write markdown format text.
 
 skills:
-  display: true
+  display: false
   title: Skills
   details: |
     Here is my skills:
@@ -98,7 +133,7 @@ skills:
       level: 70
 
 education:
-  display: true
+  display: false
   title: Education
   items:
     - university: Example University
@@ -124,7 +159,7 @@ education:
         ...
 
 certificates:
-  display: true
+  display: false
   title: Certificates
   items:
     - name: Course Foo
@@ -140,7 +175,7 @@ certificates:
       details: |
 
 publications:
-  display: true
+  display: false
   title: Publications
   intro: |
     This is all the books I wrote.
@@ -156,7 +191,7 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
@@ -166,32 +201,31 @@ languages:
   display: true
   title: Languages
   items:
-    - idiom: Chinese
+    - idiom: Russian
       level: Native
     - idiom: English
-      level: Professional
+      level: Intermediate
 
 interests:
   display: true
   title: Interests
   items:
-    - item: Reading
+    - item: Basketball
       link:
-    - item: Cooking
+    - item: Kickboxing
       link:
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
     + First
-    + Second
 
     ...
 
 footer:
-  display: true
+  display: false
 
 close: >
   Sorry, my resume has been hidden.
