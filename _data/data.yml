@@ -2,8 +2,8 @@ basic:
   name: Sergey Golovin
   title: Senior Automation QA Engineer
   avatar:
-    display: true
-    path: ../assets/images/avatar.jpeg
+    display: false
+    path: avatar.png
 
 contact:
   email: sk13man@gmail.com
