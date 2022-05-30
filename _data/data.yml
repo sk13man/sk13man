@@ -3,14 +3,14 @@ basic:
   title: Senior Automation QA Engineer
   avatar:
     display: true
-    path: profile.png
+    path: ../assets/images/avatar.jpeg
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: sk13man@gmail.com
+  phone: +380639508000
   wechat:
   whatsapp:
-  telegram:
+  telegram: @sk13man
   website: example.com
   medium:
   linkedin:
@@ -19,7 +19,7 @@ contact:
   github: github
   gitlab:
   bitbucket:
-  twitter: twitter
+  twitter: 
   stackoverflow:
   quora:
   goodreads:
@@ -29,7 +29,7 @@ profile:
   title: Profile
   details: |
     It's your career profile, you can wirte markdown format text.
-    + First
+    + First Test
     + Second
 
     ...
