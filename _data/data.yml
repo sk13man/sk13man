@@ -72,7 +72,8 @@ experiences:
         + Time planning and estimating
         + Management of test environments
         + Close collaborating and debugging with DEV team
-        + Creating and maintaining the test farm server (multi-browser and multi-platform) as a part of CI/CD process Log analysis (ELK)
+        + Creating and maintaining the test farm server (multi-browser and multi-platform) as a part of CI/CD process
+        + Log analysis (ELK)
         + Regression, user acceptance and smoke testing
         + Reporting (TestRail + Allure)
 
