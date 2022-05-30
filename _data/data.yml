@@ -10,13 +10,13 @@ contact:
   phone: +380639508000
   wechat:
   whatsapp:
-  telegram: @sk13man
-  website: example.com
+  telegram: sk13man
+  website: 
   medium:
   linkedin:
   googlescholar:
   researchgate:
-  github: github
+  github:
   gitlab:
   bitbucket:
   twitter: 
@@ -30,7 +30,7 @@ profile:
   details: |
     It's your career profile, you can wirte markdown format text.
     + First Test
-    + Second
+    + Second Test
 
     ...
 
