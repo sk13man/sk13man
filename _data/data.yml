@@ -123,11 +123,11 @@ skills:
   details: |
 
   levels:
-    - name: e2e testing (Selenium)
+    - name: Selenium
       level: 95
-    - name: API testing (GrapgQL)
+    - name: GrapgQL
       level: 80
-    - name: Mobile testing (Appium)
+    - name: Appium
       level: 70
 
 education:
