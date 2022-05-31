@@ -2,8 +2,8 @@ basic:
   name: Sergey Golovin
   title: Senior Automation QA Engineer
   avatar:
-    display: false
-    path: ../assets/images/avatar.jpeg
+    display: true
+    path: ../assets/images/qr-code.png
 
 contact:
   email: sk13man@gmail.com
@@ -50,8 +50,10 @@ experiences:
       location: Kyiv, Ukraine
       details: |
         Responsibilities:
-        + Writing and maintaining autotests (WDIO, Sitespeed. io, Applitools, API tests)
-        + Maintaining AQA infrastrucrure (AWS, Docker, Jenkins, Selenoid, GGR, Prometheus, Grafana, Reportportal)
+        + Writing and maintaining UI autotests (WDIO + Mocha, Applitools Sitespeed. io, API tests)
+        + Performance testing and monitoring (Sitespeed.io + Graphana)
+        + API testing (GraphQL + Jest)
+        + Maintaining all AQA infrastrucrure (AWS, Docker, Jenkins, Selenoid, GGR, Prometheus, Grafana, Reportportal)
 
 
 
@@ -116,65 +118,50 @@ projects:
         Project Bar's detail, you can write markdown format text.
 
 skills:
-  display: false
+  display: true
   title: Skills
   details: |
-    Here is my skills:
-    + First
-    + Second
-
-    ...
 
   levels:
-    - name: Skill A
-      level: 90
-    - name: Skill B
+    - name: e2e testing (Selenium)
+      level: 95
+    - name: API testing (GrapgQL)
       level: 80
-    - name: Skill C
+    - name: Mobile testing (Appium)
       level: 70
 
 education:
-  display: false
+  display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
+    - university: Kyiv Unuversity of Market Repationships
+      time: 2003 - 2008
+      major: management of foreign economic activity
       degree: Master
       details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
 
 certificates:
-  display: false
+  display: true
   title: Certificates
   items:
-    - name: Course Foo
-      authority: Coursera
-      time: 2020
+    - name: Effective Selenium Infrastructure
+      authority: Selenoid
+      time: 2019
       link:
       details: |
-        It's my Course Foo certificate by coursera.
-    - name: Course Bar
-      authority: Coursera
-      time: 2020
-      link: https://www.google.com
+
+    - name: Protractor Automation
+      authority: StartIT
+      time: 2019
+      link: https://www.start-it.ua
       details: |
 
+    - name: Performance Testing
+      authority: StartIT
+      time: 2018
+      link: https://www.start-it.ua/courses/performance-testing
+      details: |
+      
 publications:
   display: false
   title: Publications
