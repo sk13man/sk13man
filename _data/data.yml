@@ -53,7 +53,7 @@ experiences:
         + Writing and maintaining UI autotests (WDIO + Mocha, Applitools Sitespeed. io, API tests)
         + Performance testing and monitoring (Sitespeed.io + Graphana)
         + API testing (GraphQL + Jest)
-        + Maintaining all AQA infrastrucrure (AWS, Docker, Jenkins, Selenoid, GGR, Prometheus, Grafana, Reportportal)
+        + Maintaining all AQA infrastructure (AWS, Docker, Jenkins, Selenoid, GGR, Prometheus, Grafana, Reportportal)
 
 
 
