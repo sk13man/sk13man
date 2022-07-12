@@ -48,10 +48,14 @@ experiences:
       location: Kyiv, Ukraine
       details: |
         Responsibilities:
-        + Writing and maintaining UI autotests (WDIO + Mocha, Applitools Sitespeed. io, API tests)
+        + Writing and maintaining UI autotests (WDIO + Jasmine, Applitools)
         + Performance testing and monitoring (Sitespeed.io + Graphana)
         + API testing (GraphQL + Jest)
-        + Maintaining all AQA infrastructure (AWS, Docker, Jenkins, Selenoid, GGR, Prometheus, Grafana, Reportportal)
+        + Reporting (Reportportal, Prometheus, Grafana)
+        + Maintaining all AQA infrastructure (AWS, Docker, Jenkins, Selenoid, GGR)
+        + Time planning and estimating
+        + Mobile web tests development (Appium + Android + iOS)
+        + Close collaborating and debugging with DEV team
 
     - role: Lead QA Engineer
       time: 2018.02 - 2019.09
@@ -86,23 +90,6 @@ experiences:
         + UI autotests development (ProtractorJS)
         + Autotest management and analysis (Jenkins + Allure)
         + Executing test runs and analyzing results
-
-projects:
-  display: false
-  title: Projects
-  intro: |
-    This is all the projects I'm involved in.
-
-  items:
-    - name: Foo
-      link: https://www.google.com
-      details: |
-        Project Foo's detail, you can write markdown format text.
-
-    - name: Bar
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
 
 skills:
   display: true
