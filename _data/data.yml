@@ -11,7 +11,7 @@ contact:
   wechat:
   whatsapp:
   telegram: sk13man
-  website: 
+  website:
   medium:
   linkedin:
   googlescholar:
@@ -19,7 +19,7 @@ contact:
   github:
   gitlab:
   bitbucket:
-  twitter: 
+  twitter:
   stackoverflow:
   quora:
   goodreads:
@@ -36,8 +36,6 @@ profile:
     + Experience in Web-services testing, e-commerce testing, Mobile testing (Android)
     + Programming languages: NodeJS/Typescript
     + Tools - WebdriverIO, ProtractorJS, Jmeter, JasmineJS, Reportportal, AllureJS, SonarQube, Postman, Jenkins, Appium, Docker, Selenoid, GGR, ELK, Sitespeed.io, TestRail, Jira, Confluence, Grafana, AWS, SOAPUI , Type ORM, Postgresql, MongoDB, MySQL, Git, Webstorm, VS Code, Slack, Telegram and many others
-    
-    
 
 experiences:
   display: true
@@ -54,10 +52,6 @@ experiences:
         + Performance testing and monitoring (Sitespeed.io + Graphana)
         + API testing (GraphQL + Jest)
         + Maintaining all AQA infrastructure (AWS, Docker, Jenkins, Selenoid, GGR, Prometheus, Grafana, Reportportal)
-
-
-
-
 
     - role: Lead QA Engineer
       time: 2018.02 - 2019.09
@@ -79,11 +73,7 @@ experiences:
         + Regression, user acceptance and smoke testing
         + Reporting (TestRail + Allure)
 
-
-
-
-
-    - role:  Quality Assurance Engineer
+    - role: Quality Assurance Engineer
       time: 2015.04 - 2018.02
       company: Triptop Technologies LTD
       tag: full-time
@@ -96,9 +86,6 @@ experiences:
         + UI autotests development (ProtractorJS)
         + Autotest management and analysis (Jenkins + Allure)
         + Executing test runs and analyzing results
-        
-        
-        
 
 projects:
   display: false
@@ -161,7 +148,7 @@ certificates:
       time: 2018
       link: https://www.start-it.ua/courses/performance-testing
       details: |
-      
+
 publications:
   display: false
   title: Publications
@@ -213,7 +200,7 @@ evaluation:
     ...
 
 footer:
-  display: false
+  display: true
 
 close: >
   Sorry, my resume has been hidden.
