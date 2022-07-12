@@ -35,7 +35,7 @@ profile:
     + Mentoring of the newest in automation.
     + Experience in Web-services testing, e-commerce testing, Mobile testing (Android)
     + Programming languages: NodeJS/Typescript
-    + Tools - WebdriverIO, ProtractorJS, Jmeter, JasmineJS, Reportportal, AllureJS, SonarQube, Postman, Jenkins, Appium, Docker, Selenoid, GGR, ELK, Sitespeed.io, TestRail, Jira, Confluence, Grafana, AWS, SOAPUI , Type ORM, Postgresql, MongoDB, MySQL, Git, Webstorm, VS Code, Slack, Telegram and many others
+    + Tools - WebdriverIO, ProtractorJS, Cypress, Playwright, Jmeter, Reportportal, Mocha, AllureJS, SonarQube, Postman, Jenkins, Appium, Docker, Selenoid, GGR, ELK, Sitespeed.io, TestRail, Jira, Confluence, Grafana, AWS, SOAPUI , Type ORM, Postgresql, MongoDB, MySQL, Git, Webstorm, VS Code, Slack, Telegram and many others
 
 experiences:
   display: true
@@ -112,7 +112,11 @@ skills:
   levels:
     - name: Selenium
       level: 95
+    - name: Rest API
+      level: 95
     - name: GrapgQL
+      level: 80
+    - name: Cypress
       level: 80
     - name: Appium
       level: 70
