@@ -35,7 +35,7 @@ profile:
     + Mentoring of the newest in automation.
     + Experience in Web-services testing, e-commerce testing, Mobile Web testing (Android + iOS)
     + Programming languages: NodeJS/Typescript
-    + Tools - WebdriverIO, Cypress, ProtractorJS, Playwright, Jmeter, Report portal, Mocha, AllureJS, SonarQube, Postman, Jenkins, Appium, Docker, Selenoid, GGR, ELK, Sitespeed.io, TestRail, Jira, Confluence, Grafana, AWS, SOAPUI , Type ORM, Postgresql, MongoDB, MySQL, Git, Webstorm, VS Code, Slack, Telegram and many others
+    + Tools - WebdriverIO, Cypress, ProtractorJS, Playwright, Jmeter, Report portal, Mocha, AllureJS, SonarQube, Postman, Jenkins, Appium, Docker, Selenoid, GGR, ELK, Sitespeed.io, TestRail, Grafana, AWS, SOAPUI , Type ORM
 
 experiences:
   display: true
@@ -65,9 +65,7 @@ experiences:
         + API testing (GraphQL + Jest)
         + Reporting (Report portal, Prometheus, Grafana)
         + Maintaining all AQA infrastructure (AWS, Docker, Jenkins, Selenoid, GGR)
-        + Time planning and estimating
         + Mobile web tests development (Appium + Android + iOS)
-        + Close collaborating and debugging with DEV team
 
     - role: Lead QA Engineer
       time: 2018.02 - 2019.09
@@ -79,9 +77,7 @@ experiences:
         + Test Strategy and Unit test Policy Creation
         + Developing test strategies for continuous delivery, partnering cross-functionally to help build a stable and reliable integration environment
         + Working with product managers to identify risks and collaborate on building automated tests for new features E2E tests development(ProtractorJS) API/performance tests development (Jmeter +postman)
-        + Mobile web tests development (Appium + Android)
         + Mentoring and knowledge sharing with newcomers
-        + Time planning and estimating
         + Management of test environments
         + Close collaborating and debugging with DEV team
         + Creating and maintaining the test farm server (multi-browser and multi-platform) as a part of CI/CD process
@@ -97,7 +93,6 @@ experiences:
       details: |
         Responsibilities:
         + Creating checklists and test cases.
-        + Bug reporting and verification
         + Functional, regression, smoke, GUI testing
         + UI autotests development (ProtractorJS)
         + Autotest management and analysis (Jenkins + Allure)
@@ -152,29 +147,6 @@ certificates:
       link: https://www.start-it.ua/courses/performance-testing
       details: |
 
-publications:
-  display: false
-  title: Publications
-  intro: |
-    This is all the books I wrote.
-
-  items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
-    - title: The Art of Bar
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
-
-patents:
-  display: false
-  title: Patents
-  details: |
-    This is all my patents.
-    + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
-
 languages:
   display: true
   title: Languages
@@ -184,23 +156,6 @@ languages:
     - idiom: English
       level: Intermediate
 
-interests:
-  display: true
-  title: Interests
-  items:
-    - item: Basketball
-      link:
-    - item: Kickboxing
-      link:
-
-evaluation:
-  display: false
-  title: Self-evaluation
-  details: |
-    Here is my self evaluation.
-    + First
-
-    ...
 
 footer:
   display: true
