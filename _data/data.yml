@@ -101,7 +101,7 @@ skills:
       level: 95
     - name: Rest API
       level: 95
-    - name: GrapgQL
+    - name: GraphQL
       level: 80
     - name: Cypress
       level: 80
