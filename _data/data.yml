@@ -35,14 +35,26 @@ profile:
     + Mentoring of the newest in automation.
     + Experience in Web-services testing, e-commerce testing, Mobile Web testing (Android + iOS)
     + Programming languages: NodeJS/Typescript
-    + Tools - WebdriverIO, ProtractorJS, Cypress, Playwright, Jmeter, Reportportal, Mocha, AllureJS, SonarQube, Postman, Jenkins, Appium, Docker, Selenoid, GGR, ELK, Sitespeed.io, TestRail, Jira, Confluence, Grafana, AWS, SOAPUI , Type ORM, Postgresql, MongoDB, MySQL, Git, Webstorm, VS Code, Slack, Telegram and many others
+    + Tools - WebdriverIO, Cypress, ProtractorJS, Playwright, Jmeter, Report portal, Mocha, AllureJS, SonarQube, Postman, Jenkins, Appium, Docker, Selenoid, GGR, ELK, Sitespeed.io, TestRail, Jira, Confluence, Grafana, AWS, SOAPUI , Type ORM, Postgresql, MongoDB, MySQL, Git, Webstorm, VS Code, Slack, Telegram and many others
 
 experiences:
   display: true
   title: Experiences
   items:
+    - role:  Quality Assurance Automation Engineer
+      time: 2022.08 - till now
+      company: N-IX
+      tag: full-time, remote
+      location: Kyiv, Ukraine
+      details: |
+        Responsibilities:
+        + Writing and maintaining UI autotests (Cypress)
+        + Creating and maintaining CI pipeline (Jenkins)
+        + Test run creating (XRAY)
+        + Initiating and configuring proper repo structure (tsconfig, eslint, etc)
+
     - role: Senior Quality Assurance Automation Engineer
-      time: 2019.09 - till now
+      time: 2019.09 - 2022.07
       company: Ciklum
       tag: full-time, remote
       location: Kyiv, Ukraine
@@ -51,7 +63,7 @@ experiences:
         + Writing and maintaining UI autotests (WDIO + Jasmine, Applitools)
         + Performance testing and monitoring (Sitespeed.io + Graphana)
         + API testing (GraphQL + Jest)
-        + Reporting (Reportportal, Prometheus, Grafana)
+        + Reporting (Report portal, Prometheus, Grafana)
         + Maintaining all AQA infrastructure (AWS, Docker, Jenkins, Selenoid, GGR)
         + Time planning and estimating
         + Mobile web tests development (Appium + Android + iOS)
