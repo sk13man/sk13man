@@ -112,7 +112,7 @@ experiences:
         + Executing test runs and analyzing results
 
 skills:
-  display: true
+  display: false
   title: Skills
   levels:
     - name: Selenium
