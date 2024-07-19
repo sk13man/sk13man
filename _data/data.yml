@@ -111,20 +111,20 @@ experiences:
         + Autotest management and analysis (Jenkins + Allure)
         + Executing test runs and analyzing results
 
-skills:
-  display: true
-  title: Skills
-  levels:
-    - name: Selenium
-      level: 95
-    - name: Rest API
-      level: 95
-    - name: GraphQL
-      level: 80
-    - name: Cypress
-      level: 80
-    - name: Appium
-      level: 70
+#skills:
+#  display: true
+#  title: Skills
+#  levels:
+#    - name: Selenium
+#      level: 95
+#    - name: Rest API
+#      level: 95
+#    - name: GraphQL
+#      level: 80
+#    - name: Cypress
+#      level: 80
+#    - name: Appium
+#      level: 70
 
 education:
   display: true
