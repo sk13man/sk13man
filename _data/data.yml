@@ -41,8 +41,21 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role:  Quality Assurance Automation Engineer
-      time: 2022.08 - till now
+    - role: Senior Quality Assurance Automation Engineer
+      time: 2023.09 - till now
+      company: Onseo
+      tag: full-time, remote
+      location: Kyiv, Ukraine
+      details: |
+        Responsibilities:
+        + Building framework from scratch (Playwright)
+        + Writing and maintaining UI autotests 
+        + Creating and maintaining CI pipeline (Gitlab)
+        + Test run creating (XRAY)
+        + Initiating and configuring proper repo structure (tsconfig, eslint, etc)
+
+    - role: Senior Quality Assurance Automation Engineer
+      time: 2022.08 - 2023.06
       company: N-IX
       tag: full-time, remote
       location: Kyiv, Ukraine
