@@ -114,7 +114,7 @@ experiences:
 skills:
   display: true
   title: Skills
-  levels: |
+  levels:
     - name: Selenium
       level: 95
     - name: Rest API
