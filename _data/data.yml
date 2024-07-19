@@ -115,18 +115,20 @@ skills:
   display: true
   title: Skills
   details: |
+    Here is my skills:
+    + First
+    + Second
+
+    ...
 
   levels:
-    - name: Selenium
-      level: 95
-    - name: Rest API
-      level: 95
-    - name: GrapgQL
+    - name: Skill A
+      level: 90
+    - name: Skill B
       level: 80
-    - name: Cypress
-      level: 80
-    - name: Appium
+    - name: Skill C
       level: 70
+
 
 education:
   display: true
