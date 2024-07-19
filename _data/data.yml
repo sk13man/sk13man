@@ -114,6 +114,7 @@ experiences:
 skills:
   display: false
   title: Skills
+  details: |
   levels:
     - name: Selenium
       level: 95
