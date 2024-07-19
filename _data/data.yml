@@ -121,13 +121,12 @@ skills:
       level: 95
     - name: Rest API
       level: 95
-    - name: GraphQL
+    - name: GrapgQL
       level: 80
     - name: Cypress
       level: 80
     - name: Appium
       level: 70
-
 
 education:
   display: true
