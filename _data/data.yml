@@ -112,7 +112,7 @@ experiences:
         + Executing test runs and analyzing results
 
 skills:
-  display: true
+  display: false
   title: Skills
   levels:
     - name: Selenium
@@ -162,7 +162,7 @@ languages:
   display: true
   title: Languages
   items:
-    - idiom: Russian
+    - idiom: Ukrainian
       level: Native
     - idiom: English
       level: Intermediate
