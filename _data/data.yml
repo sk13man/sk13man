@@ -112,9 +112,9 @@ experiences:
         + Executing test runs and analyzing results
 
 skills:
-  display: false
+  display: true
   title: Skills
-  levels:
+  levels: |
     - name: Selenium
       level: 95
     - name: Rest API
