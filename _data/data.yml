@@ -115,6 +115,7 @@ skills:
   display: true
   title: Skills
   details: |
+
   levels:
     - name: Selenium
       level: 95
@@ -126,6 +127,7 @@ skills:
       level: 80
     - name: Appium
       level: 70
+
 
 education:
   display: true
