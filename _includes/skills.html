@@ -18,9 +18,9 @@
                 <tbody>
                 {% for level in skills.levels %}
                 <tr>
-                    <th scope="row"> {{ level.name }} </th>
-                    <td style="--size: calc( {{ level.level }} / 100 ); --color: {{ site.theme_color }}90;"></td>
-                    <td style="--size: calc( ( 100 - {{ level.level }} ) / 100 ); --color: {{ site.theme_color }}40;"></td>
+                    <th scope="row">{{ level.name }}</th>
+                    <td style="--size: calc({{ level.level }} / 100); --color: {{ site.theme_color }}90;"></td>
+                    <td style="--size: calc((100 - {{ level.level }}) / 100); --color: {{ site.theme_color }}40;"></td>
                 </tr>
                 {% endfor %}
                 </tbody>
