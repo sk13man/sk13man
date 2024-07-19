@@ -115,18 +115,17 @@ skills:
   display: true
   title: Skills
   details: |
-    Here is my skills:
-    + First
-    + Second
-
-    ...
 
   levels:
-    - name: Skill A
+    - name: Selenium
+      level: 95
+    - name: Playwright
       level: 90
-    - name: Skill B
+    - name: Rest API
+      level: 95
+    - name: GraphQL
       level: 80
-    - name: Skill C
+    - name: Appium
       level: 70
 
 
